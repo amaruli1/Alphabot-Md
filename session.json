@@ -65,8 +65,7 @@
         }
       }
     ],
-    "lastAccountSyncTimestamp": 1671417064,
-    "myAppStateKeyId": "AAAAABQ3"
+    "lastAccountSyncTimestamp": 1671417064
   },
   "keys": {
     "preKeys": {
@@ -387,8 +386,8 @@
             "_chains": {
               "Bd6fVIL+1ze3mw+0altY/gy79aoJYanHgwiWoPIaYDFu": {
                 "chainKey": {
-                  "counter": 4,
-                  "key": "40btbFqvrGX2fXRyaRB+A2hZpukUKtWM6EXbDuZ9+pw="
+                  "counter": 1,
+                  "key": "lMFsyKNxfh5U3hlNZm1PiVEtyUFn3/Y1fCkrWSOcrgI="
                 },
                 "chainType": 2,
                 "messageKeys": {}
@@ -405,43 +404,6 @@
           }
         },
         "version": "v1"
-      }
-    },
-    "appStateSyncKeys": {
-      "AAAAABQ3": {
-        "keyData": "VxUye7a+TnwSDQ1/L1XlMsDPwFK8LgtCuhHGVtau3Hs=",
-        "fingerprint": {
-          "rawId": 843400214,
-          "currentIndex": 1,
-          "deviceIndexes": [
-            0,
-            1
-          ]
-        },
-        "timestamp": "1671417064606"
-      }
-    },
-    "appStateVersions": {
-      "critical_block": {
-        "version": 1,
-        "hash": {
-          "type": "Buffer",
-          "data": "DSSFT30iA4NoJiO5RgEbDbId4GKUGvJrHkPY623tIX45GpvG8mTMjjb9Qmnq/Ia5thqg2BAnd6l7IuA+2eFbNQiqE/vzZR7tXatrrG3lUlQGlIbVrrCUgbJVYTPPescwmmdE7i9cnQbDO/SJYanJIwJVtHVrHZixQkphCK8eHPw="
-        },
-        "indexValueMap": {
-          "trBRGUtcwK2fo+M8CiYLyQZmnXuOWo370PXorqFJRpw=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "IHlzR4hzm07kWk7peHEejLawt0pbSuj8IFvRr6GBO5s="
-            }
-          },
-          "C+64JdJahgh50c8XbnqI7cPkowBkIfnRasevr5EbxEM=": {
-            "valueMac": {
-              "type": "Buffer",
-              "data": "s1Mut+TtVJgo7neWqWmhdIVGtNN0X3uFRoaOYyRPkf0="
-            }
-          }
-        }
       }
     }
   }
